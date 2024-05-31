@@ -7,19 +7,17 @@
 3. MoreCompany 1.9.1 by notnotnotswipez
 4. More_Suits 1.4.3 by x753
 5. SCP_Foundation_Suit 1.1.0 by TeamClark
-6. LethalCompany_InputUtils 0.7.4 by Rune580
-7. BetterSprayPaint 2.0.4 by taffyko
-8. GamblingMachineAtTheCompany 1.3.5 by JunLethalCompany
-9. FixPluginTypesSerialization 1.1.1 by Evaisa
-10. HookGenPatcher 0.0.5 by Evaisa
-11. LethalModDataLib 1.2.2 by MaxWasUnavailable
-12. LethalLib 0.15.1 by Evaise
-13. LethalLevelLoader 1.2.3 by IAmBatby
-14. Dantors_Mental_Hospital 1.2.2 by Dantor
-15. Backrooms 0.1.3 by Backrooms
-16. LobbyCompatibility 1.1.0 by BMX
-17. SCPFoundationDungeon 4.1.3 by Badham_Mods
-18. Scoopys_Variety_Mod 1.2.0 by scoopy
+6. GamblingMachineAtTheCompany 1.3.5 by JunLethalCompany
+7. FixPluginTypesSerialization 1.1.1 by Evaisa
+8. HookGenPatcher 0.0.5 by Evaisa
+9. LethalModDataLib 1.2.2 by MaxWasUnavailable
+10. LethalLib 0.16.0 by Evaise
+11. LethalLevelLoader 1.2.4 by IAmBatby
+12. Dantors_Mental_Hospital 1.2.2 by Dantor
+13. Backrooms 0.1.3 by Backrooms
+14. LobbyCompatibility 1.1.0 by BMX
+15. SCPFoundationDungeon 4.3.0 by Badham_Mods
+16. Scoopys_Variety_Mod 1.2.0 by scoopy
 
 ## Optional (Client-Side)
 
@@ -42,6 +40,6 @@
 17. LethalConfig 1.4.2 by AinaVT
 18. WhistleJester 1.0.1 by WrouidInc
 
-**Import Code:** 018f8af6-76fe-4d13-5ebd-b309aac35ddd
+**Import Code:** 018fcdca-b178-d38d-be2f-8e88de2bd4e2
 
-Last Updated: <t:1716023397:R>
+Last Updated: <t:1717144546:R>
