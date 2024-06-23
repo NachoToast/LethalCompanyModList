@@ -13,11 +13,11 @@
 - LethalModDataLib 1.2.2 by MaxWasUnavailable
 - LethalLib 0.16.0 by Evaise
 - LethalLevelLoader 1.2.4 by IAmBatby
-- SchoolDungeon 1.2.3 by MrUnrealTeam
 - Backrooms 0.1.3 by Backrooms
 - LobbyCompatibility 1.1.0 by BMX
 - SCPFoundationDungeon 4.3.0 by Badham_Mods
 - Scoopys_Variety_Mod 1.2.0 by scoopy
+- ShipWindows 1.3.6 by TestAccount666 
 
 ## Optional (Client-Side)
 
@@ -39,7 +39,8 @@
 - BetterStamina 1.3.2 by FlipMods
 - LethalConfig 1.4.2 by AinaVT
 - WhistleJester 1.0.1 by WrouidInc
+- AlwaysHearActiveWalkies 1.4.5 by Suskitech
 
-**Import Code:** 018ff1d2-9bd8-86d6-c48f-a1ac5f94c127
+**Import Code:** 01904347-afa4-eb7d-592c-64bb2fd22b8e
 
-Last Updated: <t:1717749139:R>
+Last Updated: <t:1719115704:R>
