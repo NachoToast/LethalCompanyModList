@@ -35,9 +35,9 @@
 - LethalReynolds 1.2.3 by femboytv
 - BetterStamina 1.3.2 by FlipMods
 - LethalConfig 1.4.2 by AinaVT
-- WhistleJester 1.0.1 by WrouidInc
+- ~~WhistleJester 1.0.1 by WrouidInc~~ TEMPORARILY DISABLED
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
 
-**Import Code:** 01908221-f0ed-b6c0-b115-c8aaf0709182
+**Import Code:** 0190822d-bd03-9b3f-edb8-60fe7d15fbdc
 
-Last Updated: <t:1720170189:R>
+Last Updated: <t:1720170961:R>
