@@ -12,12 +12,9 @@
 - HookGenPatcher 0.0.5 by Evaisa
 - LethalModDataLib 1.2.2 by MaxWasUnavailable
 - LethalLib 0.16.0 by Evaise
-- LethalLevelLoader 1.2.4 by IAmBatby
 - Backrooms 0.1.3 by Backrooms
 - LobbyCompatibility 1.1.0 by BMX
-- SCPFoundationDungeon 4.3.0 by Badham_Mods
-- Scoopys_Variety_Mod 1.2.0 by scoopy
-- ShipWindows 1.3.6 by TestAccount666 
+- ShipWindows 1.4.0 by TestAccount666 
 
 ## Optional (Client-Side)
 
@@ -41,6 +38,6 @@
 - WhistleJester 1.0.1 by WrouidInc
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
 
-**Import Code:** 01904347-afa4-eb7d-592c-64bb2fd22b8e
+**Import Code:** 01908221-f0ed-b6c0-b115-c8aaf0709182
 
-Last Updated: <t:1719115704:R>
+Last Updated: <t:1720170189:R>
