@@ -3,18 +3,18 @@
 ## Required (Server-Side)
 
 - BepInExPack 5.4.2100 by BepInEx
-- LateCompany 1.0.13 by anormaltwig
-- MoreCompany 1.9.1 by notnotnotswipez
+- LateCompany 1.0.16 by anormaltwig
+- MoreCompany 1.9.4 by notnotnotswipez
 - More_Suits 1.4.3 by x753
 - SCP_Foundation_Suit 1.1.0 by TeamClark
 - GamblingMachineAtTheCompany 1.3.5 by JunLethalCompany
 - FixPluginTypesSerialization 1.1.1 by Evaisa
 - HookGenPatcher 0.0.5 by Evaisa
 - LethalModDataLib 1.2.2 by MaxWasUnavailable
-- LethalLib 0.16.0 by Evaise
+- LethalLib 0.16.1 by Evaise
 - Backrooms 0.1.3 by Backrooms
 - LobbyCompatibility 1.1.0 by BMX
-- ShipWindows 1.4.0 by TestAccount666 
+- ShipWindows 1.5.2 by TestAccount666 
 
 ## Optional (Client-Side)
 
@@ -38,6 +38,6 @@
 - ~~WhistleJester 1.0.1 by WrouidInc~~ TEMPORARILY DISABLED
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
 
-**Import Code:** 0190822d-bd03-9b3f-edb8-60fe7d15fbdc
+**Import Code:** 0190ca1e-89eb-d5a2-f5fa-756c312ac2c8
 
-Last Updated: <t:1720170961:R>
+Last Updated: <t:1721377942:R>
