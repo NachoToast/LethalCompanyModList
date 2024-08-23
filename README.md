@@ -3,8 +3,8 @@
 ## Required (Server-Side)
 
 - BepInExPack 5.4.2100 by BepInEx
-- LateCompany 1.0.16 by anormaltwig
-- MoreCompany 1.9.4 by notnotnotswipez
+- LateCompany 1.0.18 by anormaltwig
+- MoreCompany 1.10.1 by notnotnotswipez
 - More_Suits 1.4.3 by x753
 - SCP_Foundation_Suit 1.1.0 by TeamClark
 - GamblingMachineAtTheCompany 1.3.5 by JunLethalCompany
@@ -13,13 +13,12 @@
 - LethalModDataLib 1.2.2 by MaxWasUnavailable
 - LethalLib 0.16.1 by Evaise
 - Backrooms 0.1.3 by Backrooms
-- LobbyCompatibility 1.1.0 by BMX
-- ShipWindows 1.5.2 by TestAccount666 
+- ~~LobbyCompatibility 1.2.0 by BMX~~ TEMPORARILY DISABLED
+- ShipWindows 1.10.2 by TestAccount666 
 
 ## Optional (Client-Side)
 
 - ShipLoot 1.1.0 by tinyhoot
-- Helmet_Cameras 2.1.5 by RickArg
 - YippeeMod 1.2.4 by sunnobunno
 - NameplateTweaks 1.0.7 by taffyko
 - VoiceHUD 1.0.4 by 5bit
@@ -35,9 +34,10 @@
 - LethalReynolds 1.2.3 by femboytv
 - BetterStamina 1.3.2 by FlipMods
 - LethalConfig 1.4.2 by AinaVT
-- ~~WhistleJester 1.0.1 by WrouidInc~~ TEMPORARILY DISABLED
+- ~~WhistleJester 1.0.2 by WrouidInc~~ TEMPORARILY DISABLED
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
+- Solos_Bodycams 1.0.5 by CapyCat
 
-**Import Code:** 0190ca1e-89eb-d5a2-f5fa-756c312ac2c8
+**Import Code:** 01917e54-1ce8-dcaa-be5d-b04245be97fc
 
-Last Updated: <t:1721377942:R>
+Last Updated: <t:1724401320:R>
