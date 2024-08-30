@@ -13,7 +13,6 @@
 - LethalModDataLib 1.2.2 by MaxWasUnavailable
 - LethalLib 0.16.1 by Evaise
 - Backrooms 0.1.3 by Backrooms
-- ~~LobbyCompatibility 1.2.0 by BMX~~ TEMPORARILY DISABLED
 - ShipWindows 1.10.2 by TestAccount666 
 
 ## Optional (Client-Side)
@@ -25,19 +24,18 @@
 - CoilHeadStare 1.0.9 by TwinDimensionalProductions
 - HolyMolyPuffer 1.1.0 by KeroBeepBoop
 - BonkHitSFX 1.0.5 by sunnobunno
-- ShipClock 0.9.0 by ATK
 - LethalAPI_Terminal 1.0.1 by LethalAPI
 - BetterTerminal 1.1.1 by ZG
 - DissonanceLagFix 1.0.0 by linkoid
 - LethalPaintings 1.2.3 by femboytv
 - LethalPosters 1.2.3 by femboytv
 - LethalReynolds 1.2.3 by femboytv
-- BetterStamina 1.3.2 by FlipMods
+- BetterStamina 1.4.0 by FlipMods
 - LethalConfig 1.4.2 by AinaVT
 - ~~WhistleJester 1.0.2 by WrouidInc~~ TEMPORARILY DISABLED
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
 - Solos_Bodycams 1.0.5 by CapyCat
 
-**Import Code:** 01917e54-1ce8-dcaa-be5d-b04245be97fc
+**Import Code:** 0191a290-852b-0fcc-f4bc-f3c42a48051e
 
-Last Updated: <t:1724401320:R>
+Last Updated: <t:1725009240:R>
