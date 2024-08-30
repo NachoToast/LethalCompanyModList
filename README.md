@@ -13,6 +13,9 @@
 - LethalLib 0.16.1 by Evaise
 - Backrooms 0.1.3 by Backrooms
 - ShipWindows 1.10.2 by TestAccount666 
+- ModelReplacementAPI 2.4.8 by BunyaPineTree
+- Overwatch 1.2.0 by Nordbo
+- TooManyEmotes by 2.2.4
 
 ## Optional (Client-Side)
 
