@@ -11,11 +11,11 @@
 - HookGenPatcher 0.0.5 by Evaisa
 - LethalModDataLib 1.2.2 by MaxWasUnavailable
 - LethalLib 0.16.1 by Evaise
-- Backrooms 0.1.3 by Backrooms
 - ShipWindows 1.10.2 by TestAccount666 
 - ModelReplacementAPI 2.4.8 by BunyaPineTree
 - Overwatch 1.2.0 by Nordbo
 - TooManyEmotes by 2.2.4
+- CustomStorePrice 1.0.2 by TinyMins
 
 ## Optional (Client-Side)
 
@@ -38,6 +38,6 @@
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
 - Solos_Bodycams 1.0.5 by CapyCat
 
-**Import Code:** 0191a291-6853-b47a-963b-f02d9546e995
+**Import Code:** 0191a2ae-5554-9b00-7a65-5ede7b753b2d
 
-Last Updated: <t:1725009240:R>
+Last Updated: <t:1725011220:R>
