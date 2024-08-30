@@ -7,7 +7,6 @@
 - MoreCompany 1.10.1 by notnotnotswipez
 - More_Suits 1.4.3 by x753
 - SCP_Foundation_Suit 1.1.0 by TeamClark
-- GamblingMachineAtTheCompany 1.3.5 by JunLethalCompany
 - FixPluginTypesSerialization 1.1.1 by Evaisa
 - HookGenPatcher 0.0.5 by Evaisa
 - LethalModDataLib 1.2.2 by MaxWasUnavailable
@@ -36,6 +35,6 @@
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
 - Solos_Bodycams 1.0.5 by CapyCat
 
-**Import Code:** 0191a290-852b-0fcc-f4bc-f3c42a48051e
+**Import Code:** 0191a291-6853-b47a-963b-f02d9546e995
 
 Last Updated: <t:1725009240:R>
