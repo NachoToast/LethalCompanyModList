@@ -14,7 +14,7 @@
 - ShipWindows 1.10.2 by TestAccount666 
 - ModelReplacementAPI 2.4.8 by BunyaPineTree
 - Overwatch 1.2.0 by Nordbo
-- TooManyEmotes by 2.2.5
+- TooManyEmotes by 2.2.6 by FlipMods
 - CustomStorePrice 1.0.2 by TinyMins
 
 ## Optional (Client-Side)
@@ -32,12 +32,12 @@
 - LethalPaintings 1.2.3 by femboytv
 - LethalPosters 1.2.3 by femboytv
 - LethalReynolds 1.2.3 by femboytv
-- BetterStamina 1.4.1 by FlipMods
+- BetterStamina 1.5.4 by FlipMods
 - LethalConfig 1.4.2 by AinaVT
 - ~~WhistleJester 1.0.2 by WrouidInc~~ TEMPORARILY DISABLED
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
 - Solos_Bodycams 1.0.5 by CapyCat
 
-**Import Code:** 0191acb9-7100-6e40-620e-016ae5f964ad
+**Import Code:** 0191c68c-ce18-cb3b-fdc2-736b8de249ba
 
-Last Updated: <t:1725179700:R>
+Last Updated: <t:1725613020:R>
