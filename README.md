@@ -16,6 +16,9 @@
 - Overwatch 1.2.0 by Nordbo
 - TooManyEmotes by 2.2.6 by FlipMods
 - CustomStorePrice 1.0.2 by TinyMins
+- PathfindingLagFix 1.4.0 by Zaggy1024
+- OdinSerializer 2022.11.9 by Lordfirespeed
+- StaticNetcodeLib 1.1.1 by xilophor
 
 ## Optional (Client-Side)
 
@@ -37,7 +40,9 @@
 - ~~WhistleJester 1.0.2 by WrouidInc~~ TEMPORARILY DISABLED
 - AlwaysHearActiveWalkies 1.4.5 by Suskitech
 - Solos_Bodycams 1.0.5 by CapyCat
+- NoSellLimit 1.0.1 by ViViKo
+- Coroner 2.1.0 by EliteMasterEric
 
-**Import Code:** 0191c68c-ce18-cb3b-fdc2-736b8de249ba
+**Import Code:** 0191cbae-9366-e73b-385e-4c0d5f4eb998
 
-Last Updated: <t:1725613020:R>
+Last Updated: <t:1725699060:R>
